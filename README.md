@@ -23,15 +23,21 @@
 
 > "代码是诗，逻辑是韵"
 
-我是一个充满激情的开发者，热爱探索新技术和解决复杂问题。我相信技术能够改变世界，让生活更美好。
+一个编程小白努力coding中。。。
 
 ## 🛠 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 访问统计
+
+| 计数器类型 | 代码 |
+|------------|------|
+| **总访问量** | ![Profile Views](https://komarev.com/ghpvc/?username=Lightlyman&color=blueviolet&style=for-the-badge) |
+| **今日访问** | ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLightlyman&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false) |
 
 ## 📊 GitHub 统计
 
@@ -45,5 +51,7 @@
 [![blog](https://img.shields.io/badge/LinkedIn-Lightlyman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://blog.trickertong.top/)
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Lightlyman&color=blueviolet&style=flat-square)
 
 ⭐ 来自 [Lightlyman](https://github.com/Lightlyman)
