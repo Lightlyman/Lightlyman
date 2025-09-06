@@ -17,8 +17,6 @@
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Lightlyman. -->
 # 💻 Lightlyman's GitHub Profile
 
-![Profile Banner](https://via.placeholder.com/1200x300/4A154B/FFFFFF?text=Lightlyman's+Coding+Space)
-
 ## 👋 关于我
 
 > "代码是诗，逻辑是韵"
@@ -49,9 +47,8 @@
 
 ## 📫 联系我
 
-[![Email](https://img.shields.io/badge/Email-lightlyman@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lightlyman@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lightlyman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lightlyman/)
-[![Twitter](https://img.shields.io/badge/Twitter-@lightlyman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lightlyman)
+[![Email](https://img.shields.io/badge/Email-lightlyman@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1743627423@qq.com)
+[![blog](https://img.shields.io/badge/LinkedIn-Lightlyman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://blog.trickertong.top/)
 
 ---
 
