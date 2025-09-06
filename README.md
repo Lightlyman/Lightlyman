@@ -15,13 +15,6 @@
 ![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 访问统计
-
-| 计数器类型 | 代码 |
-|------------|------|
-| **总访问量** | ![Profile Views](https://komarev.com/ghpvc/?username=Lightlyman&color=blueviolet&style=for-the-badge) |
-| **今日访问** | ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLightlyman&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false) |
-
 ## 📊 GitHub 统计
 
 ![Lightlyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightlyman&show_icons=true&theme=radical)
@@ -35,6 +28,6 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Lightlyman&color=blueviolet&style=flat-square)
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Lightlyman.
 
 ⭐ 来自 [Lightlyman](https://github.com/Lightlyman)
