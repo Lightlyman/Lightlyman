@@ -17,6 +17,8 @@
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Lightlyman. -->
 # 💻 Lightlyman's GitHub Profile
 
+![头像](image/壁纸.png)
+
 ## 👋 关于我
 
 > "代码是诗，逻辑是韵"
@@ -26,7 +28,7 @@
 ## 🛠 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,14 +38,6 @@
 ![Lightlyman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lightlyman&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightlyman&layout=compact&theme=radical)
-
-## 🌟 精选项目
-
-### [Project Alpha](https://github.com/Lightlyman/Project-Alpha)
-一个革命性的Web应用，使用React和Node.js构建，解决了XX问题。
-
-### [Data Visualizer](https://github.com/Lightlyman/Data-Visualizer)
-使用D3.js创建的数据可视化工具，帮助用户更好地理解复杂数据。
 
 ## 📫 联系我
 
